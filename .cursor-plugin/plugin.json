@@ -1,0 +1,11 @@
+{
+  "name": "talebuddy",
+  "version": "1.0.0",
+  "description": "Plan and write stories with Talebuddy: list and search your tales, build concept pages, keep the story ledger of characters, places and lore up to date, read your manuscript, and file session notes. Connects to Talebuddy's hosted MCP server with OAuth sign-in.",
+  "author": { "name": "Kadima Tech" },
+  "homepage": "https://talebuddy.io",
+  "repository": "https://github.com/kadima-tech/talebuddy-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["writing", "fiction", "storytelling", "worldbuilding", "novel", "mcp"],
+  "logo": "assets/logo.png"
+}

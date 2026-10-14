@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "talebuddy": {
+      "url": "https://talebuddy.io/api/mcp"
+    }
+  }
+}
